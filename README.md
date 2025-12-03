@@ -1,6 +1,6 @@
 ## Welcome to my page! 🤓👋 
  😄 Pronouns: She/her
-- I'm a junior at the University of North Carolina, majoring in Computer Science with a minor in sustainability.
+- I'm a junior at the University of North Carolina at Greensboro, majoring in Computer Science with a minor in sustainability.
 - 🌱 I’m currently learning about the rise of data centers and their environmental impacts, especially on areas with already high water stress!
 - 💬 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/katherine-williams-b34ba5385/)
   
