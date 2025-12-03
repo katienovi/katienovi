@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to my page! 🤓👋 
+ 😄 Pronouns: She/her
+- I'm a junior at the University of North Carolina, majoring in Computer Science with a minor in sustainability.
+- 🌱 I’m currently learning about the rise of data centers and their environmental impacts, especially on areas with already high water stress!
+- 💬 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/katherine-williams-b34ba5385/)
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorders&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
 
 <!--
 **katienovi/katienovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
